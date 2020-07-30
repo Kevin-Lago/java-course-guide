@@ -1,6 +1,6 @@
 # Unit 1 Lesson 2 - Statements, Expressions, Data Types and Variables
 
-[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_1_introduction_to_javahttps://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_1_introduction_to_java)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_1_introduction_to_java)
 
 ---
 ## Write Clean Code!
