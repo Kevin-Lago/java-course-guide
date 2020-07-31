@@ -5,7 +5,7 @@
 ---
 ## History of Java
 
-- Java was originally named Greentalk, created by James Gosling and his team in 1991 at Sun Microsystems.
+- Java was originally named Greentalk. It was created by James Gosling and his team, Green Team, in 1991 at Sun Microsystems.
 - Greentalk was then changed to Oak and finally Java in 1995.
 - In 2006 Java was made open sourced by Sun Microsystems.
 - In 2010 Oracle purchased Sun Microsystems. Oracle named the open sourced version of Java OpenJDK, and their own as OracleJDK.
@@ -47,13 +47,15 @@ to watch
 ## Oracle Java vs OpenJDK
 
 - The main difference between Oracle Java and OpenJDK is licensing. 
-- OpenJDK has a General Public License, which means anyone can use it for free!
-- Oracle Java is under Oracle's OTN license. This basically means an individual can use it for free, while a company needs to pay.
+- Oracle Java is commercially supported, released and distributed by Oracle.
+- Oracle Java has an OTN (Oracle Technology Network) License.
+- OpenJDK is community supported and has a GPL. (General Public License)
 
 ### Helpful Links
 
 to read
 
+- [Oracle Technology Network License](https://www.oracle.com/downloads/licenses/standard-license.html)
 - [Oracle JDK vs OpenJDK - javapapers](https://javapapers.com/java/oracle-jdk-vs-openjdk-and-java-jdk-development-process/)
 - [Oracle Licensing FAQs](https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html)
 
@@ -65,6 +67,8 @@ to watch
 ## IDEs
 
 - Where the magic happens.
+- IDEs are basically a super text editor.
+- IDEs have features and tools that make creating software more efficiently.
 - There're several Integrated Development Environments or IDEs you could use.
 - I recommend [IntelliJ](https://www.jetbrains.com/idea/) to start.
 
@@ -90,7 +94,7 @@ to watch
 
 - Jakarta EE is an Enterprise Edition of Java.
 - Older versions are called JavaEE, and the oldest J2EE.
-- The Enterprise Edition adds a few features for web development.
+- Provides tools to create enterprise level applications.
 
 ### Helpful Links
 
@@ -142,6 +146,8 @@ to watch
 
 ---
 
+[Lesson Quiz]()
+
 [Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
 
 # Full Java Course
@@ -149,4 +155,3 @@ to watch
 <a href="https://github.com/Kevin-Lago/Java-Course-Guide">
 	<img src="../../java_logo.png" />
 </a>
-
