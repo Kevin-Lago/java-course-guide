@@ -8,7 +8,7 @@
 - Java was originally named Greentalk. It was created by James Gosling and his team, Green Team, in 1991 at Sun Microsystems.
 - Greentalk was then changed to Oak and finally Java in 1995.
 - In 2006 Java was made open sourced by Sun Microsystems.
-- In 2010 Oracle purchased Sun Microsystems. Oracle named the open sourced version of Java OpenJDK, and their own as OracleJDK.
+- In 2010 Oracle purchased Sun Microsystems. Oracle split Java and named the open sourced version OpenJDK, and their own as OracleJDK.
 
 ### Helpful Links
 
@@ -146,7 +146,7 @@ to watch
 
 ---
 
-[Lesson Quiz]()
+[Lesson Quiz](https://docs.google.com/forms/d/1xv316sTfA12PUxXmN3K5oGkq3kesilNqRxaL3psGlec/viewform?edit_requested=true)
 
 [Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
 
