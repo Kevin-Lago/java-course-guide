@@ -2,7 +2,7 @@
 
 [Previous Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1/lesson_2_statements_expressions_datatypes_and_variables)
 
-[Lesson Slides]()
+[Lesson Slides](https://docs.google.com/presentation/d/1PGyQbY8l9K4_ZeNZPWz40bR25OVZPmMZsqOhm7lrwcA/edit?usp=sharing)
 
 ---
 ## Program Flow
