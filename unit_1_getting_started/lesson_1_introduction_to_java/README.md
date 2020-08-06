@@ -68,7 +68,7 @@ to watch
 
 - Where the magic happens.
 - IDEs are basically a super text editor.
-- IDEs have features and tools that make creating software more efficiently.
+- IDEs have features and tools that makes creating software easier.
 - There're several Integrated Development Environments or IDEs you could use.
 - I recommend [IntelliJ](https://www.jetbrains.com/idea/) to start.
 
@@ -92,7 +92,7 @@ to watch
 ---
 ## Jakarta
 
-- Jakarta EE is an Enterprise Edition of Java.
+- Jakarta is an Enterprise Edition of Java.
 - Older versions are called JavaEE, and the oldest J2EE.
 - Provides tools to create enterprise level applications.
 
@@ -108,18 +108,21 @@ to watch
 - [Jakarta EE - IBM](https://www.youtube.com/watch?v=bFNczrl4OMM)
 
 ---
-## Spring
+## Java Frameworks
 
-- Spring is one of many open source Java frameworks.
-- Spring builds on the Enterprise Edition of Java and adds many features like security, databases, APIs, ect...
-- Basically Spring is used to quickly develop fully featured web applications.
-- This course will only touch a few frameworks like Spring, Mockito and RabbitMQ.
+- Java Frameworks provide more tools to create applications
+- Some examples include:
+	- Spring
+	- RabbitMQ
+	- Mockito
+	- JUnit
+	- Thymeleaf
 
 ### Helpful Links
 
 to read
 
-- []()
+- [List of Java Frameworks - Wiki](https://en.wikipedia.org/wiki/List_of_Java_frameworks)
 
 to watch
 
@@ -130,7 +133,7 @@ to watch
 
 - Install IntelliJ.
 - Install JDK.
-- Create and Run Hello, World!
+- Create and Run a "Hello, World!" program.
 
 ### Helpful Links
 
