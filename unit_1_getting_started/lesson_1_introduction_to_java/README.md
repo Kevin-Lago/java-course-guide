@@ -1,7 +1,5 @@
 # Unit 1 Lesson 1 - Introduction to Java
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/hyx0YftuyDU/0.jpg)](https://www.youtube.com/watch?v=hyx0YftuyDU)
-
 [Lesson Slides](https://docs.google.com/presentation/d/1IbkN3dbFgc648J2UZrndsTJGw5b8IO7TNh0P1v-_pPA/edit?usp=sharing)
 
 ---
