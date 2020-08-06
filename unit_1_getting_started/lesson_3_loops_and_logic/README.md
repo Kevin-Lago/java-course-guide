@@ -173,6 +173,8 @@ to watch
 ---
 ## if, else if, else Statements
 
+- The else if statement allows us to check for other conditions
+
 ```java
 if (condition) {
 	// execute this code if condition is true
@@ -210,6 +212,22 @@ if (8 <= 2) {
 	System.out.print("This will not be printed to the console");
 } else {
 	System.out.print("This will be printed to the console");
+}
+```
+
+- We can have multiple else if statements.
+
+```java
+if (8 <= 2) {
+	System.out.print("This will not be printed to the console");
+} else if (8 >= 48) {
+	System.out.print("This will not be printed to the console");
+} else if (8 <= 2) {
+	System.out.print("This will not be printed to the console");
+} else if (8 == 8) {
+	System.out.print("This will be printed to the console");
+} else {
+	System.out.print("This will not be printed to the console");
 }
 ```
 
