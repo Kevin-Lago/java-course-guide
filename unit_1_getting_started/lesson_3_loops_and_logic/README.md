@@ -300,19 +300,52 @@ to watch
 - We can use for loops
 
 ```java
+for (initialization; termination condition; increment) {
+	// Repeat this block of code
+}
+```
+
+```java
 // This writes "Hello, World!" 5 times to the terminal
 for (int i = 0; i < 5; i++) {
 	System.out.println("Hello, World!");
 }
 ```
 
-- And we can use while loops
+- We can use while loops
 
 ```java
-// This writes "Hello, World!"
-while () {
-	System.out.println("Hello, World!");
+while(condition) {
+	// Repeat this block of code
 }
+```
+
+```java
+// This writes "Hello, World! to the console 5 times
+int i = 0;
+
+while (i < 5) {
+	System.out.println("Hello, World!");
+	i++;
+}
+```
+
+- We can also use do while loops
+
+```java
+do {
+	// Repeat this block of code
+} while (condition);
+```
+
+```java
+// This writes "Hello, World! to the console 5 times
+int i = 0;
+
+do {
+	System.out.println("Hello, World!");
+	i++;
+} while (i < 5);
 ```
 
 - There're also enhanced for loops which will be covered in lesson 6 - Arrays
