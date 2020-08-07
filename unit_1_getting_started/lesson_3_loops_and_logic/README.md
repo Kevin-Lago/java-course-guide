@@ -254,7 +254,7 @@ switch (expression) {
 	case value2:
 		// execute this code if expression == value2
 		break;
-	deafult:
+	default:
 		// executre this code if not match was found
 		break;
 }
