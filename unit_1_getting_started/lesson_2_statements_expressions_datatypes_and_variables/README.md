@@ -57,18 +57,39 @@ to watch
 
 - Comments are ignored bits of code.
 - Comments are for your team, and your future self!
+- Comments are used if code is unclear or when communicating with your team!
 - Single line comments.
 
 ```java
 // This is a single lined comment
 ```
 
+```java
+public class HelloWorld {
+	// Prints Hello, World! to the console
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+	}
+}
+```
+
 - Block comments.
 
 ```java
 /*
-This is a block comment
+* This is a block comment
 */
+```
+
+```java
+public class HelloWorld {
+    /*
+    * Todo: This code needs to print a smiley face too
+    * */
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
 ### Helpful Links

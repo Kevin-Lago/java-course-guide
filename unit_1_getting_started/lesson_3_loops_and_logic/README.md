@@ -244,11 +244,28 @@ to watch
 ---
 ## switch Statements
 
+- Switch
+
+```java
+switch (expression) {
+	case value1:
+		// execute this code if expression == value1
+		break;
+	case value2:
+		// execute this code if expression == value2
+		break;
+	deafult:
+		// executre this code if not match was found
+		break;
+}
+```
+
 ### Helpful Links
 
 to read
 
-- []()
+- [Java Switch - w3schools](https://www.w3schools.com/java/java_switch.asp)
+- [Switch Statements in Java - tutorialspoint](https://www.tutorialspoint.com/java/switch_statement_in_java.htm#:~:text=Advertisements,is%20checked%20for%20each%20case.)
 
 to watch
 
