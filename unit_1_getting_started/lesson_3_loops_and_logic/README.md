@@ -1,6 +1,6 @@
 # Unit 1 Lesson 3 - Loops and Logic
 
-[Previous Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1/lesson_2_statements_expressions_datatypes_and_variables)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1/lesson_2_statements_expressions_datatypes_and_variables)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1PGyQbY8l9K4_ZeNZPWz40bR25OVZPmMZsqOhm7lrwcA/edit?usp=sharing)
 
@@ -27,7 +27,8 @@
 
 to read
 
-- []()
+- [Compilation and Execution of a Java Program - GeeksforGeeks](https://www.geeksforgeeks.org/compilation-execution-java-program/)
+- [Control Flow Statements - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)
 
 to watch
 
@@ -53,7 +54,7 @@ boolean blueIsRed = false;
 
 to read
 
-- []()
+- [Java Booleans - w3schools](https://www.w3schools.com/java/java_booleans.asp)
 
 to watch
 
@@ -125,7 +126,8 @@ if (5 < 2) {
 
 to read
 
-- []()
+- [Java If ... Else - w3schools](https://www.w3schools.com/java/java_conditions.asp)
+- [The if-then and if-then-else Statements - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 to watch
 
@@ -164,7 +166,8 @@ if (5 < (2 / 2)) {
 
 to read
 
-- []()
+- [Java If ... Else - w3schools](https://www.w3schools.com/java/java_conditions.asp)
+- [The if-then and if-then-else Statements - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 to watch
 
@@ -235,7 +238,8 @@ if (8 <= 2) {
 
 to read
 
-- []()
+- [Java If ... Else - w3schools](https://www.w3schools.com/java/java_conditions.asp)
+- [The if-then and if-then-else Statements - Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 to watch
 
@@ -354,7 +358,9 @@ do {
 
 to read
 
-- []()
+- [Java For Loop - GeeksforGeeks](https://www.w3schools.com/java/java_for_loop.asp)
+- [Loops in Java - GeeksforGeeks](https://www.geeksforgeeks.org/loops-in-java/#:~:text=Looping%20in%20programming%20languages%20is,some%20condition%20evaluates%20to%20true.&text=while%20loop%3A%20A%20while%20loop,on%20a%20given%20Boolean%20condition.)
+- [Loops in Java - javatpoint](https://www.javatpoint.com/java-for-loop)
 
 to watch
 
@@ -380,7 +386,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1/lesson_4_objects_and_methods)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1/lesson_4_debugging)
 
 # Full Java Course
 
