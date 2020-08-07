@@ -369,8 +369,8 @@ to watch
 ---
 ## Activities
 
-- Calculator and Random Numbers
-- 
+- Create a Random Number Generator
+- Use that random number to control the flow of a program
 
 ### Helpful Links
 
