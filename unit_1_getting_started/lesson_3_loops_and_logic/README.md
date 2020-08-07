@@ -244,7 +244,7 @@ to watch
 ---
 ## switch Statements
 
-- Switch
+- Switch statements allow us to compare an expression to several different values
 
 ```java
 switch (expression) {
@@ -257,6 +257,27 @@ switch (expression) {
 	deafult:
 		// executre this code if not match was found
 		break;
+}
+```
+
+```java
+int x;
+
+switch(x = 4) {
+	case 1:
+		System.out.println("This will be printed to the console if x = 1");
+		break;
+	case 2:
+		System.out.println("This will be printed to the console if x = 2");
+		break;
+	case 3:
+		System.out.println("This will be printed to the console if x = 3");
+		break;
+	case 4:
+		System.out.println("This will be printed to the console if x = 4");
+		break;
+	default:
+		System.out.println("This will be printed to the console if x does not equal either 1, 2, 3 or 4");
 }
 ```
 
