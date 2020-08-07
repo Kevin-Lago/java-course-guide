@@ -122,11 +122,12 @@ to watch
 
 to read
 
+- [What is a Java Framework? - Red Hat](https://www.redhat.com/en/topics/cloud-native-apps/what-is-a-Java-framework)
 - [List of Java Frameworks - Wiki](https://en.wikipedia.org/wiki/List_of_Java_frameworks)
 
 to watch
 
-- []()
+- [What is the difference between frameworks and libraries? - Java Brains](https://www.youtube.com/watch?v=PjyVXs0_3H8)
 
 ---
 ## Activities
