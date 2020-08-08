@@ -25,7 +25,7 @@ to watch
 - [James Gosling History - Computer History Museum](https://www.youtube.com/watch?v=TJ6XHroNewc)
 
 ---
-## JRE vs JDK
+## JRE and JDK
 
 - The Java Runtime Environment or JRE basically runs Java programs.
 - The Java Development Kit or JDK is essentially a set of tools to create Java applications.
