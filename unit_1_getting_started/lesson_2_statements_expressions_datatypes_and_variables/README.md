@@ -284,7 +284,19 @@ to read
 ## Statements
 
 - A Statement is like a full sentence.
-- Basically some code that equates to a single value.
+- We can turn an Expression into an Expression Statement using a ;
+
+```java
+int intVariable = 5;
+```
+
+- We can also use Control Flow Statements which will be covered in unit 1 lesson 3
+- Control Flow Statement examples:
+	- if
+	- else if
+	- else
+	- for
+	- while
 
 ### Helpful Links
 
