@@ -329,8 +329,8 @@ to read
 ## Activities
 
 - Familiarize yourself with Java Keywords!
-- Familiarize yourself with Javas primtive data types
-- Create Java Calculator
+- Familiarize yourself with Javas Primtive Data Types!
+- Do some Math!
 
 ### Helpful Links
 
