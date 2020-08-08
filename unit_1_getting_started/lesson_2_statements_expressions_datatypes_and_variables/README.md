@@ -319,7 +319,7 @@ to read
 	- Decrement Operator: Subtracts 1 from a value
 	
 ```java
-int a = 2 + 2;
+int a = 2 + 2; 
 int b = 2 - 2;
 int c = 2 * 2;
 int d = 2 / 2;
@@ -335,7 +335,7 @@ x--; // x will again equal 0
 
 - Assignment Operator: =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
 
-- Relational Operators: <, <=, >, =>, ==, !=
+- Relational/Comparison Operators: <, <=, >, =>, ==, !=
 
 - Logical Operators: &&, ||, !
 
