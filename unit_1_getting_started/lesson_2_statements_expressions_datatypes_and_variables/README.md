@@ -159,6 +159,7 @@ double defaultDoubleValue = 0.0d;
 
 ```java
 boolean defaultBooleanValue = false;
+boolean trueBooleanValue = true;
 ```
 
 - chars are a single letter.
@@ -192,13 +193,13 @@ to read
 
 - Variables are named bits of computer memory in which you can store a value.
 - Variables first need a data type and then a name:
-- <Data Type> <Identifier>
+- (Data Type) (Identifier)
+- Lets declare a String variable with the identifier stringVariable.
 
 ```java
 String stringVariable;
 ```
 
-- Here we're declaring a String variable with the identifier stringVariable.
 - Declaring a variable only reserves the memory; it doesn’t put anything in the memory. For that, we need to assign a value to our new variable.
 - We assign values to our variables using the assignment operator (=)
 
@@ -219,7 +220,7 @@ to read
 - Identifiers are developer defined names for Variables, Methods and Classes.
 - Identifiers cannot span multiple lines or contain spaces.
 - Identifiers can only contain numbers, letters, underscores, dashes and dollar signs.
-- Identifiers cannot start with a number.
+- Identifiers Must start with either a letter, underscore or dollar sign. 
 
 ```java
 int exampleInt_1 = 0;
