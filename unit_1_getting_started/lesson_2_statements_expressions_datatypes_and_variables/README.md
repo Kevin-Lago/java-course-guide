@@ -265,7 +265,8 @@ public class Apple {
 to read
 
 - [Geeks for Geeks Identifiers](https://www.geeksforgeeks.org/java-identifiers/)
-- []()
+- [Naming Conventions - Oracle](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Class%20names%20should%20be%20nouns,such%20as%20URL%20or%20HTML).)
+- [Java Naming Conventions - javatpoint](https://www.javatpoint.com/java-naming-conventions)
 
 ---
 ## Expressions
