@@ -270,7 +270,7 @@ to read
 ---
 ## Expressions
 
-- An Expression is like a full sentence.
+- “An expression is a construct made up of variables, operators, and method invocations, which are constructed according to the syntax of the language, that evaluates to a single value.” - Oracle Java Docs
 - Basically some code that equates to a single value.
 
 ### Helpful Links
@@ -279,6 +279,18 @@ to read
 
 - [Oracle Docs Expressions, Statements and Blocks](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html)
 - [Java Expressions Introduced - Paul Leahy](https://www.thoughtco.com/expression-2034097#:~:text=Expressions%20are%20essential%20building%20blocks,variables%2C%20operators%20and%20method%20calls.)
+
+---
+## Statements
+
+- A Statement is like a full sentence.
+- Basically some code that equates to a single value.
+
+### Helpful Links
+
+to read
+
+- [Oracle Docs Expressions, Statements and Blocks](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html)
 
 ---
 ## Operators
