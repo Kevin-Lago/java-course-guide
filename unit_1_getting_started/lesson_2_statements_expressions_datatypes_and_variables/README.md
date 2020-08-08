@@ -311,47 +311,26 @@ to read
 - Arithmetic Operators: +, -, *, /, %, ++, --
 
 	- Addition Operator: Adds two values
-	
-```java
-int x = 2 + 2;	
-```
-
 	- Subtraction Operator: Subtracts two values
-	
-```java
-int x = 2 - 2;
-```
-
 	- Multiplication Operator: Multiplies two values
-	
-```java
-int x = 2 * 2;
-```
-
 	- Division Operator: Divides two values
-	
-```java
-int x = 2 / 2;
-```
-
 	- Modulus Operator: Divides two values and returns the remainder
-	
-```java
-int x = 2 % 2;
-```
-
 	- Increment Operator: Adds 1 to a value
-	
-```java
-int x = 0;
-x++;
-```
-
 	- Decrement Operator: Subtracts 1 from a value
 	
 ```java
-int x = 1;
-x--;
+int a = 2 + 2;
+int b = 2 - 2;
+int c = 2 * 2;
+int d = 2 / 2;
+int e = 2 % 2;
+
+int x = 0;
+
+x++; // x will now equal 1
+x++; // x will now equal 2
+x--; // x will now equal 1
+x--; // x will again equal 0
 ```
 
 - Assignment Operator: =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
