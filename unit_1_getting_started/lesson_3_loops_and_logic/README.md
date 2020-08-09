@@ -64,9 +64,9 @@ to watch
 ## Relational Operators
 
 - == (equals)
-- <, > (greater than, less than)
+- >, < (greater than, less than)
 - != (not equals)
-- <=, >= (greater than or equal, less than or equal)
+- >=, <= (greater than or equal, less than or equal)
 
 - We use relational operators to compare values in conjunction with conditional statements and loops.
 
