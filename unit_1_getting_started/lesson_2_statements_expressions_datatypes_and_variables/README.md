@@ -57,18 +57,39 @@ to watch
 
 - Comments are ignored bits of code.
 - Comments are for your team, and your future self!
+- Comments are used if code is unclear or when communicating with your team!
 - Single line comments.
 
 ```java
 // This is a single lined comment
 ```
 
+```java
+public class HelloWorld {
+	// Prints Hello, World! to the console
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+	}
+}
+```
+
 - Block comments.
 
 ```java
 /*
-This is a block comment
+* This is a block comment
 */
+```
+
+```java
+public class HelloWorld {
+    /*
+    * Todo: This code needs to print a smiley face too
+    * */
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 ```
 
 ### Helpful Links
@@ -138,6 +159,7 @@ double defaultDoubleValue = 0.0d;
 
 ```java
 boolean defaultBooleanValue = false;
+boolean trueBooleanValue = true;
 ```
 
 - chars are a single letter.
@@ -171,13 +193,13 @@ to read
 
 - Variables are named bits of computer memory in which you can store a value.
 - Variables first need a data type and then a name:
-- <Data Type> <Identifier>
+- (Data Type) (Identifier)
+- Lets declare a String variable with the identifier stringVariable.
 
 ```java
 String stringVariable;
 ```
 
-- Here we're declaring a String variable with the identifier stringVariable.
 - Declaring a variable only reserves the memory; it doesn’t put anything in the memory. For that, we need to assign a value to our new variable.
 - We assign values to our variables using the assignment operator (=)
 
@@ -198,7 +220,7 @@ to read
 - Identifiers are developer defined names for Variables, Methods and Classes.
 - Identifiers cannot span multiple lines or contain spaces.
 - Identifiers can only contain numbers, letters, underscores, dashes and dollar signs.
-- Identifiers cannot start with a number.
+- Identifiers Must start with either a letter, underscore or dollar sign. 
 
 ```java
 int exampleInt_1 = 0;
@@ -243,12 +265,13 @@ public class Apple {
 to read
 
 - [Geeks for Geeks Identifiers](https://www.geeksforgeeks.org/java-identifiers/)
-- []()
+- [Naming Conventions - Oracle](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html#:~:text=Class%20names%20should%20be%20nouns,such%20as%20URL%20or%20HTML).)
+- [Java Naming Conventions - javatpoint](https://www.javatpoint.com/java-naming-conventions)
 
 ---
 ## Expressions
 
-- An Expression is like a full sentence.
+- “An expression is a construct made up of variables, operators, and method invocations, which are constructed according to the syntax of the language, that evaluates to a single value.” - Oracle Java Docs
 - Basically some code that equates to a single value.
 
 ### Helpful Links
@@ -259,13 +282,60 @@ to read
 - [Java Expressions Introduced - Paul Leahy](https://www.thoughtco.com/expression-2034097#:~:text=Expressions%20are%20essential%20building%20blocks,variables%2C%20operators%20and%20method%20calls.)
 
 ---
+## Statements
+
+- A Statement is like a full sentence.
+- We can turn an Expression into an Expression Statement using a ;
+
+```java
+int intVariable = 5;
+```
+
+- We can also use Control Flow Statements which will be covered in unit 1 lesson 3
+- Control Flow Statement examples:
+	- if
+	- else if
+	- else
+	- for
+	- while
+
+### Helpful Links
+
+to read
+
+- [Oracle Docs Expressions, Statements and Blocks](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/expressions.html)
+
+---
 ## Operators
 
-- Arithmetic Operators: +, -, *, /, %
+- Arithmetic Operators: +, -, *, /, %, ++, --
+
+	- Addition Operator: Adds two values
+	- Subtraction Operator: Subtracts two values
+	- Multiplication Operator: Multiplies two values
+	- Division Operator: Divides two values
+	- Modulus Operator: Divides two values and returns the remainder
+	- Increment Operator: Adds 1 to a value
+	- Decrement Operator: Subtracts 1 from a value
+	
+```java
+int a = 2 + 2; 
+int b = 2 - 2;
+int c = 2 * 2;
+int d = 2 / 2;
+int e = 2 % 2;
+
+int x = 0;
+
+x++; // x will now equal 1
+x++; // x will now equal 2
+x--; // x will now equal 1
+x--; // x will again equal 0
+```
 
 - Assignment Operator: =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
 
-- Relational Operators: <, <=, >, =>, ==, !=
+- Relational/Comparison Operators: <, <=, >, =>, ==, !=
 
 - Logical Operators: &&, ||, !
 
@@ -282,8 +352,8 @@ to read
 ## Activities
 
 - Familiarize yourself with Java Keywords!
-- Familiarize yourself with Javas primtive data types
-- Create Java Calculator
+- Familiarize yourself with Javas Primtive Data Types!
+- Do some Math!
 
 ### Helpful Links
 
@@ -299,7 +369,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1_getting_started/lesson_3_loops_and_logic)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_3_loops_and_logic)
 
 # Full Java Course
 
