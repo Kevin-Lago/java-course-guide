@@ -1,6 +1,6 @@
 # Unit 1 Lesson 3 - Loops and Logic
 
-[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1/lesson_2_statements_expressions_datatypes_and_variables)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1PGyQbY8l9K4_ZeNZPWz40bR25OVZPmMZsqOhm7lrwcA/edit?usp=sharing)
 
@@ -65,7 +65,7 @@ to watch
 
 - == (equals)
 - <, > (less than, greater than)
-- != (not equals)
+- != (does not equal)
 - <=, >= (less than or equal, greater than or equal)
 
 - We use relational operators to compare values in conjunction with conditional statements and loops.
@@ -386,7 +386,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1/lesson_4_debugging)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_4_debugging)
 
 # Full Java Course
 
