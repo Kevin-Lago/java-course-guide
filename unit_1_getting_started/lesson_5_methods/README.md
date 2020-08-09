@@ -28,9 +28,8 @@ to watch
 - Methods allows us to reuse code
 - Methods help us organize our code
 
-```java
-<access modifier> <return type> <method name> (<parameter list>)
-<exception list> {
+```xml
+<access modifier> <return type> <method name> (<parameter list>) <exception list> {
 	<method body>
 }
 ```
