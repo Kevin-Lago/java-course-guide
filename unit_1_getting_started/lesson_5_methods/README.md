@@ -5,7 +5,54 @@
 [Lesson Slides](https://docs.google.com/presentation/d/1IUt6Od3-mm4HAWt6zHqt570D84MwOOG9pW7pmRkCPZs/edit?usp=sharing)
 
 ---
+## DONT REPEAT YOURSELF!
+
+- DONT REPEAT YOURSELF! wait..
+- As you progress in the world of coding you'll notice duplicates of code!
+- Methods allow us to write code once and use it multiple times!
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
 ## Methods
+
+- Methods reside within Objects/Classes
+- Methods allows us to reuse code
+- Methods help us organize our code
+
+```java
+<access modifier> <return type> <method name> (<parameter list>)
+<exception list> {
+	<method body>
+}
+```
+
+```java
+/*
+* This Method takes in a String value and prints it to the console
+* The return type is void meaning nothing will be returned.
+*/
+public static void exampleVoidMethod(String message) {
+	System.out.println(message);
+}
+```
+
+```java
+/*
+* This Method takes in two int values, adds them together and returns it
+*/
+public static int add(int a, int b) {
+	return a + b;
+}
+```
 
 ### Helpful Links
 

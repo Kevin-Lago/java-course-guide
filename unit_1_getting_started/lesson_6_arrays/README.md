@@ -1,4 +1,4 @@
-# Unit 1 Lesson 4 - Arrays
+# Unit 1 Lesson 6 - Arrays
 
 [Previous Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1_getting_started/lesson_3_methods)
 
@@ -72,6 +72,19 @@ stringArray[3] = "index";
 | "at"     | 2     |
 | "index"  | 3     |
 
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Activities
 
 ### Helpful Links
 
