@@ -64,6 +64,72 @@ to watch
 - []()
 
 ---
+## Access Modifiers
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Return Types
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Method Names
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Method Parameters
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Method Signature
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+
+---
 ## Activities
 
 ### Helpful Links
