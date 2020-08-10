@@ -39,14 +39,14 @@ to watch
 * This Method takes in a String value and prints it to the console
 * The return type is void meaning nothing will be returned.
 */
-public static void exampleVoidMethod(String message) {
+public static void printMessageToConsole(String message) {
 	System.out.println(message);
 }
 ```
 
 ```java
 /*
-* This Method takes in two int values, adds them together and returns it
+* This Method takes in two int values and returns the sum
 */
 public static int add(int a, int b) {
 	return a + b;
