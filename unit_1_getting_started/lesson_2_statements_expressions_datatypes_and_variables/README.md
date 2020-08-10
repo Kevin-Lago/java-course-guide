@@ -317,28 +317,16 @@ to read
 	- Modulus Operator: Divides two values and returns the remainder
 	- Increment Operator: Adds 1 to a value
 	- Decrement Operator: Subtracts 1 from a value
-	
-```java
-int a = 2 + 2; 
-int b = 2 - 2;
-int c = 2 * 2;
-int d = 2 / 2;
-int e = 2 % 2;
 
-int x = 0;
-
-x++; // x will now equal 1
-x++; // x will now equal 2
-x--; // x will now equal 1
-x--; // x will again equal 0
-```
-
-| Operator   |  Name | Example |
-|------------|:-----:|:-------:|
-| +          | 0     | 0       |
-| -          | 1     | 1       |
-| *          | 2     | 2       |
-| /          | 3     | 3       |
+| Operator   |  Name                   | Function                                     | Example |
+|:----------:|:-----------------------:|:--------------------------------------------:|:-------:|
+| +          | Addition Operator       | Adds two values                              | 0       |
+| -          | Subtraction Operator    | Subtracts two values                         | 1       |
+| *          | Multiplication Operator | Multiplies two values                        | 2       |
+| /          | Division Operator       | Divides two values                           | 3       |
+| %          | Modulus Operator        | Divides two values and returns the remainder | 3       |
+| /          | Division Operator       | Divides two values                           | 3       |
+| /          | Division Operator       | Divides two values                           | 3       |
 
 - Assignment Operator: =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
 
