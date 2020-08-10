@@ -333,7 +333,19 @@ x--; // x will now equal 1
 x--; // x will again equal 0
 ```
 
+| Operator   |  Name | Example |
+|------------|:-----:|:-------:|
+| +          | 0     | 0       |
+| -          | 1     | 1       |
+| *          | 2     | 2       |
+| /          | 3     | 3       |
+
 - Assignment Operator: =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
+
+	- Equals Operator: assigns a given value to a variable
+	- Plus-Equals Operator: Add a given value to a variable
+	- Minus-Equals Operator: Subtracts a given value to a Variable
+	- Multiply-Equals Operator
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
 
