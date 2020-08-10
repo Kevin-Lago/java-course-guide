@@ -9,23 +9,69 @@
 
 - An array is a data structure that can hold a fixed number of data values of the same data type.
 - Data values in the array are called elements.
-- In Java you define the data type of the array when declared.
+- We can think of Arrays as a list. For example a list of car brands
+	- Toyota
+	- Ford
+	- Chrysler
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Declaring Arrays
+
+- In Java you define the data type of the array when it's declared.
+- We tell Java we are creating an Array with [].
 
 ```java
-// This is an array of String(s) called exampleStringArrayDeclaration
+// This is an array of String(s)
 String[] exampleStringArrayDeclaration;
 
-// This is an array of int(s) called exampleIntArrayDeclaration
+// This is an array of int(s)
 int[] exampleIntArrayDeclaration;
 ```
 
-- The length of an array is specified when instantiated.
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Initializing Arrays
+
+- The length of an array is specified when instantiated/initialized.
 - Once the length of the array is specified it can not be changed.
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Array Elements
+
 - The location of each element is indicated by a numerical index.
 - The elements in an array are ordered.
 
 ```java
-String[] stringArray = { "apples", "bananas", "oranges", "peaches" }
+String[] listOfFruits = { "apples", "bananas", "oranges", "peaches" }
 ```
 
 | Element   | index |
@@ -36,7 +82,7 @@ String[] stringArray = { "apples", "bananas", "oranges", "peaches" }
 | "peaches" | 3     |
 
 ```java
-int[] anotherExampleArray = { 3, 1, 2, 0 }
+int[] listOfNumbers = { 3, 1, 2, 0 }
 ```
 
 | Element | index |
@@ -72,7 +118,6 @@ stringArray[3] = "index";
 | "at"     | 2     |
 | "index"  | 3     |
 
-
 ### Helpful Links
 
 to read
@@ -84,33 +129,9 @@ to watch
 - []()
 
 ---
-## Declaring Arrays
+## Loops and Arrays
 
-### Helpful Links
-
-to read
-
-- []()
-
-to watch
-
-- []()
-
----
-## Initializing Arrays
-
-### Helpful Links
-
-to read
-
-- []()
-
-to watch
-
-- []()
-
----
-## Array Elements
+- To access all the elements individually we can use Loops! 
 
 ### Helpful Links
 
@@ -124,6 +145,10 @@ to watch
 
 ---
 ## Activities
+
+- Create Arrays of different Data Types
+- Access and change elements at a specific index
+- Loop through those arrays
 
 ### Helpful Links
 
