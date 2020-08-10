@@ -13,6 +13,12 @@
 	- Toyota
 	- Ford
 	- Chrysler
+	
+- Or a list of grades
+	- 86
+	- 97
+	- 64
+	- 78
 
 ### Helpful Links
 
@@ -52,7 +58,13 @@ to watch
 ## Initializing Arrays
 
 - The length of an array is specified when instantiated/initialized.
-- Once the length of the array is specified it can not be changed.
+- Once the length of the array is specified the length can not be changed.
+
+```java
+String[] stringArray = new String[5];
+
+String[] listOfCarBrands = {"Toyota", "Ford", "Chrysler", "Mazda", "Bentley"};
+```
 
 ### Helpful Links
 
@@ -67,8 +79,8 @@ to watch
 ---
 ## Array Elements
 
-- The location of each element is indicated by a numerical index.
 - The elements in an array are ordered.
+- The location of each element is indicated by a numerical index.
 
 ```java
 String[] listOfFruits = { "apples", "bananas", "oranges", "peaches" }
@@ -102,6 +114,8 @@ String[] stringArray = new String[4];
 | null    | 1     |
 | null    | 2     |
 | null    | 3     |
+
+- We can access an Element of an Array with that index.
 
 ```java
 String[] stringArray = new String[4];
@@ -149,6 +163,7 @@ to watch
 - Create Arrays of different Data Types
 - Access and change elements at a specific index
 - Loop through those arrays
+- Find the min max and average of an array of ints
 
 ### Helpful Links
 
