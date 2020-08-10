@@ -36,11 +36,11 @@ to watch
 
 ```java
 /*
-* This Method takes in a String value and prints it to the console
+* This Method prints "Hello, World!" to the console
 * The return type is void meaning nothing will be returned.
 */
-public static void printMessageToConsole(String message) {
-	System.out.println(message);
+public static void printHelloWorldToConsole() {
+	System.out.println("Hello, World!");
 }
 ```
 
@@ -66,6 +66,12 @@ to watch
 ---
 ## Access Modifiers
 
+- We can use the following modifiers to define a Methods scope
+	- public
+	- protected
+	- private
+	- Default
+
 ### Helpful Links
 
 to read
@@ -78,6 +84,9 @@ to watch
 
 ---
 ## Return Types
+
+- Methods can return data to where they are called.
+- If a Method does not have a return type we use void.
 
 ### Helpful Links
 
@@ -92,6 +101,13 @@ to watch
 ---
 ## Method Names
 
+- Methods should be camel cased
+- The first word in a method should be lowercased
+- Methods should begin with verbs
+	- add
+	- countSeconds
+	- calculateTotal
+
 ### Helpful Links
 
 to read
@@ -104,6 +120,25 @@ to watch
 
 ---
 ## Method Parameters
+
+- Parameters are placeholders for variables that will be passed into a method.
+- A Method can take from 0 to 255 Parameters
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Method Exceptions
+
+- Method Exceptions are how we catch and throw expected errors.
+- Exceptions give us more freedom on how to handle those expected errors.
 
 ### Helpful Links
 
@@ -118,6 +153,18 @@ to watch
 ---
 ## Method Signature
 
+- A Methods signature is how Java uniquely identifies methods
+- Java Identifies Methods via:
+	- A Methods name
+	- The list of Parameters
+
+- Here are some examples:
+	- printMessage()
+	- printMessage(String message)
+	- addNumbers(int a, int b)
+	- addNumbers(int a, int b, int c)
+	- addNumbers(int a, int b, int c, int d)
+
 ### Helpful Links
 
 to read
@@ -128,9 +175,57 @@ to watch
 
 - []()
 
+---
+## Method Types
+
+- No return value or Parameters
+
+```java
+public static void method() {
+	System.out.println("This is a basic method");
+}
+```
+
+- Return value with no Parameters
+
+```java
+public static String returnMethod() {
+	return "This String will be returned to where the method was called";
+}
+```
+
+- No return value with one or more Parameters
+
+```java
+public static void parameterMethod(String string) {
+	System.out.println(string);
+}
+```
+
+- Return value with one or more Parameters
+
+```java
+public static String returnFullName(String firstName, String lastName) {
+	return firstName + " " + lastName;
+}
+```
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
 
 ---
 ## Activities
+
+- Create Methods with different parameters and access Modifiers
+- Call those Methods
+- Understand scope and return types
 
 ### Helpful Links
 

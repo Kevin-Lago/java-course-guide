@@ -5,7 +5,7 @@
 [Lesson Slides](https://docs.google.com/presentation/d/12SsbLA1HV4kX1I71zBAGQC0I2icgxCpkWr3B5zB9iB0/edit?usp=sharing)
 
 ---
-## Overview
+## Arrays
 
 - An array is a data structure that can hold a fixed number of data values of the same data type.
 - Data values in the array are called elements.
@@ -72,6 +72,45 @@ stringArray[3] = "index";
 | "at"     | 2     |
 | "index"  | 3     |
 
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Declaring Arrays
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Initializing Arrays
+
+### Helpful Links
+
+to read
+
+- []()
+
+to watch
+
+- []()
+
+---
+## Array Elements
 
 ### Helpful Links
 
