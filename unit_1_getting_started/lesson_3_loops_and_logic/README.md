@@ -309,14 +309,16 @@ for (initialization; termination condition; increment) {
 }
 ```
 
-<img src="ForLoopFlowChart.png" />
-
 ```java
 // This writes "Hello, World!" 5 times to the terminal
 for (int i = 0; i < 5; i++) {
 	System.out.println("Hello, World!");
 }
 ```
+
+- Here's a diagram of the for loop above
+
+<img src="ForLoopFlowChart.png" />
 
 - We can use while loops
 
