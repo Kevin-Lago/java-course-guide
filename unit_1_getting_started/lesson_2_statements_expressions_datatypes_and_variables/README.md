@@ -309,29 +309,42 @@ to read
 ## Operators
 
 - Arithmetic Operators: +, -, *, /, %, ++, --
+- Arithemtic Operators allow us to do basic math
 
-| Operator   |  Name                    | Function                                     | Example       | Result Value |
-|:----------:|:------------------------:|----------------------------------------------|---------------|--------------|
-| +          | Addition Operator        | Adds two values                              | int x = 2 + 2 | 4            |
-| -          | Subtraction Operator     | Subtracts two values                         | x = x - 2     | 2            |
-| *          | Multiplication Operator  | Multiplies two values                        | x = x * 3     | 6            |
-| /          | Division Operator        | Divides two values                           | x = x / 2     | 3            |
-| %          | Modulus Operator         | Divides two values and returns the remainder | x = x % 2     | 1            |
-| ++         | Increment Operator       | Adds 1 to a value                            | x++           | 2            |
-| --         | Decrement Operator       | Subtracts 1 from a value                     | x--           | 1            |
+| Operator |  Name                    | Function                                     | Example       | Result Value |
+|:--------:|:------------------------:|----------------------------------------------|---------------|--------------|
+| +        | Addition Operator        | Adds two values                              | int x = 2 + 2 | 4            |
+| -        | Subtraction Operator     | Subtracts two values                         | x = x - 2     | 2            |
+| *        | Multiplication Operator  | Multiplies two values                        | x = x * 3     | 6            |
+| /        | Division Operator        | Divides two values                           | x = x / 2     | 3            |
+| %        | Modulus Operator         | Divides two values and returns the remainder | x = x % 2     | 1            |
+| ++       | Increment Operator       | Adds 1 to a value                            | x++           | 2            |
+| --       | Decrement Operator       | Subtracts 1 from a value                     | x--           | 1            |
 
 - Assignment Operator: =, +=, -=, *=, /=, %=
+- Assignment Operators asign a value to a Variable
 	
-| Operator   |  Name                    | Function                                          | Example       | Result Value |
-|:----------:|:------------------------:|---------------------------------------------------|:-------------:|--------------|
-| =          | Equals Operator          | Assigns a value to a Variable                     | int x = 2     | 2            |
-| +=         | Plus-Equals Operator     | Adds a value to a Variables original value        | x += 6        | 8            |
-| -=         | Minus-Equals Operator    | Subtracts a value from a Variables original value | x -= 2        | 6            |
-| *=         | Multiply-Equals Operator | Divides two values                                | x *= 2        | 12           |
-| /=         | Divide-Equals Operator   | Divides two values and returns the remainder      | x /= 4        | 3            |
-| %=         | Modulus-Equals Operator  | Adds 1 to a value                                 | x %= 2        | 1            |
+| Operator |  Name                    | Function                                          | Example       | Result Value |
+|:--------:|:------------------------:|---------------------------------------------------|:-------------:|--------------|
+| =        | Equals Operator          | Assigns a value to a Variable                     | int x = 2     | 2            |
+| +=       | Plus-Equals Operator     | Adds a value to a Variables original value        | x += 6        | 8            |
+| -=       | Minus-Equals Operator    | Subtracts a value from a Variables original value | x -= 2        | 6            |
+| *=       | Multiply-Equals Operator | Divides two values                                | x *= 2        | 12           |
+| /=       | Divide-Equals Operator   | Divides two values and returns the remainder      | x /= 4        | 3            |
+| %=       | Modulus-Equals Operator  | Adds 1 to a value                                 | x %= 2        | 1            |
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
+- Relational/Comparison Operators allow us to compare two values
+- Relational/Comparison Operators will return a true or false value
+
+| Operator |  Name                           | Function                                          | Example | Result Value |
+|:--------:|:-------------------------------:|---------------------------------------------------|:-------:|--------------|
+| <        | Less-Than Operator              | Returns true if a is less than b                  | 2 < 4   | true         |
+| <=       | Less-Than-Or-Equals Operator    | Returns true if a is less than or equal to b      | 2 <= 3  | false        |
+| >        | Greater-Than Operator           | Returns true if a is greater than b               | 3 > 2   | true         |
+| >=       | Greater-Than-Or-Equals Operator | Returns true if a is greater than or equal to b   | 3 >= 3  | true         |
+| ==       | Does-Equal Operator             | Returns true if a does equal b                    | 3 == 3  | true         |
+| !=       | Does-Not-Equal Operator         | Returns true if a does not equal b                | 2 != 2  | false        |
 
 - Logical Operators: &&, ||, !
 
