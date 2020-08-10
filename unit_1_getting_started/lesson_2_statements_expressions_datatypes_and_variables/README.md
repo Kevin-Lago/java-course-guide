@@ -310,23 +310,27 @@ to read
 
 - Arithmetic Operators: +, -, *, /, %, ++, --
 
-	- Addition Operator: Adds two values
-	- Subtraction Operator: Subtracts two values
-	- Multiplication Operator: Multiplies two values
-	- Division Operator: Divides two values
-	- Modulus Operator: Divides two values and returns the remainder
-	- Increment Operator: Adds 1 to a value
-	- Decrement Operator: Subtracts 1 from a value
+| Operator   |  Name                   | Function                                     | Example       | Result Value |
+|:----------:|:-----------------------:|----------------------------------------------|:-------------:|--------------|
+| +          | Addition Operator       | Adds two values                              | int x = 2 + 2 | 4            |
+| -          | Subtraction Operator    | Subtracts two values                         | int x = 2 - 2 | 0            |
+| *          | Multiplication Operator | Multiplies two values                        | int x = 2 * 4 | 8            |
+| /          | Division Operator       | Divides two values                           | int x = 4 / 2 | 2            |
+| %          | Modulus Operator        | Divides two values and returns the remainder | int x = 6 % 2 | 0            |
+| ++         | Increment Operator      | Adds 1 to a value                            | x++           | 1            |
+| --         | Decrement Operator      | Subtracts 1 from a value                     | x--           | -1           |
 
-| Operator   |  Name                   | Function                                     | Example |
-|:----------:|:-----------------------:|:--------------------------------------------:|:-------:|
-| +          | Addition Operator       | Adds two values                              | 0       |
-| -          | Subtraction Operator    | Subtracts two values                         | 1       |
-| *          | Multiplication Operator | Multiplies two values                        | 2       |
-| /          | Division Operator       | Divides two values                           | 3       |
-| %          | Modulus Operator        | Divides two values and returns the remainder | 3       |
-| /          | Division Operator       | Divides two values                           | 3       |
-| /          | Division Operator       | Divides two values                           | 3       |
+- Increment Example
+
+```java
+int x = 0; // x starts at 0
+x++; // x now equals 1
+```
+
+```java
+int x = 0; // x starts at 0
+x--; // x now equals -1
+```
 
 - Assignment Operator: =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
 
@@ -334,6 +338,16 @@ to read
 	- Plus-Equals Operator: Add a given value to a variable
 	- Minus-Equals Operator: Subtracts a given value to a Variable
 	- Multiply-Equals Operator
+	
+| Operator   |  Name                   | Function                                     | Example       | Result Value |
+|:----------:|:-----------------------:|----------------------------------------------|:-------------:|--------------|
+| =          | Addition Operator       | Adds two values                              | int x = 2 + 2 | 4            |
+| +=         | Subtraction Operator    | Subtracts two values                         | int x = 2 - 2 | 0            |
+| -=         | Multiplication Operator | Multiplies two values                        | int x = 2 * 4 | 8            |
+| *=         | Division Operator       | Divides two values                           | int x = 4 / 2 | 2            |
+| /=         | Modulus Operator        | Divides two values and returns the remainder | int x = 6 % 2 | 0            |
+| %=         | Increment Operator      | Adds 1 to a value                            | x++           | 1            |
+| &=         | Decrement Operator      | Subtracts 1 from a value                     | x--           | -1           |
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
 
