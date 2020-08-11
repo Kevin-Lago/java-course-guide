@@ -2,7 +2,7 @@
 
 [Previous Lesson]()
 
-[Lesson Slides]()
+[Lesson Slides](https://docs.google.com/presentation/d/1syJhr-P8Y7GTFQKdFnJIvoVxlRskQUSZSz3ZRHfRvNM/edit?usp=sharing)
 
 ---
 ##
