@@ -335,7 +335,7 @@ to read
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
 - Relational/Comparison Operators allow us to compare two values
-- Relational/Comparison Operators will return a true or false value
+- Relational/Comparison Operators will equate a true or false value
 
 | Operator |  Name                           | Function                                          | Example | Result Value |
 |:--------:|:-------------------------------:|---------------------------------------------------|:-------:|--------------|
