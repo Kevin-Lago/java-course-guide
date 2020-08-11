@@ -45,7 +45,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1_getting_started/lesson_5_methodshttps://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_5_methods)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_5_methods)
 
 # Full Java Course
 
