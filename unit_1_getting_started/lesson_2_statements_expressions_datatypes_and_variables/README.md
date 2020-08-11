@@ -57,12 +57,8 @@ standardDeviation = Math.sqrt(variance); }}
 public class CleanCode {
     public static void main(String[] args) {
         int[] grades = {2, 98, 58, 83, 95, 36, 36, 78, 37, 86, 85, 87, 98, 100, 38};
-        int min = 100;
-        int max = 0;
-        int sum = 0;
-        int mean = 0;
-        double variance = 0;
-        double standardDeviation = 0;
+        int min = 100; int max = 0; int sum = 0; int mean = 0;
+        double variance = 0; double standardDeviation = 0;
 
         for (int grade : grades) {
             if (grade > max) max = grade;
