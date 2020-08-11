@@ -1,4 +1,4 @@
-# Unit 2 Lesson 5 - Inheritance
+# Unit 2 Lesson 7 - Polymorphism
 
 [Previous Lesson]()
 

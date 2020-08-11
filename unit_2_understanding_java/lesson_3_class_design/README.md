@@ -1,4 +1,4 @@
-# Unit 2 Lesson 2 - Class Design
+# Unit 2 Lesson 3 - Class Design
 
 [Previous Lesson]()
 

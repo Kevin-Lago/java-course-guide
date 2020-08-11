@@ -1,4 +1,4 @@
-# Unit 2 Lesson 6 - Polymorphism
+# Unit 2 Lesson 2 - Memory Management
 
 [Previous Lesson]()
 

@@ -1,4 +1,4 @@
-# Unit 2 Lesson 3 - Interfaces
+# Unit 2 Lesson 6 - Inheritance
 
 [Previous Lesson]()
 

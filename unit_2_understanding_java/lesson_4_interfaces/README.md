@@ -1,4 +1,4 @@
-# Unit 2 Lesson 4 - Composition
+# Unit 2 Lesson 4 - Interfaces
 
 [Previous Lesson]()
 
