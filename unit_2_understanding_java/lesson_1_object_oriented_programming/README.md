@@ -34,7 +34,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_1_object_oriented_programming)
+[Next Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_2_classes_and_objects)
 
 # Full Java Course
 

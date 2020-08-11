@@ -17,11 +17,11 @@
 ---
 ## Unit 2 - Understanding Java
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Lesson 1 - Objects Oriented Programming](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_1_object_oriented_programming)
+- [Lesson 2 - Classess and Objects](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_2_classes_and_objects)
+- [Lesson 3 - Memory Management](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_3_memory_management)
+- [Lesson 4 - Class Design](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_4_class_design)
+- [Lesson 5 - Interfaces](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_5_interfaces)
+- [Lesson 6 - Composition](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_6_composition)
+- [Lesson 7 - Inheritance](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_7_inheritance)
+- [Lesson 8 - Polymorphism](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_8_polymorphism)
