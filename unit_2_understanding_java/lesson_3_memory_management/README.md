@@ -1,4 +1,4 @@
-# Unit 2 Lesson 2 - Memory Management
+# Unit 2 Lesson 3 - Memory Management
 
 [Previous Lesson]()
 

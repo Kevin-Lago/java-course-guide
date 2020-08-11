@@ -1,4 +1,4 @@
-# Unit 2 Lesson 5 - Composition
+# Unit 2 Lesson 6 - Composition
 
 [Previous Lesson]()
 

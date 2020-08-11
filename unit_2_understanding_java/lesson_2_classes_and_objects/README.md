@@ -1,4 +1,4 @@
-# Unit 2 Lesson 1 - Classes and Objects
+# Unit 2 Lesson 2 - Classes and Objects
 
 [Previous Lesson]()
 
