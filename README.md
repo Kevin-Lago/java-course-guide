@@ -13,3 +13,13 @@
 - [Lesson 4 - Debugging](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_4_debugging)
 - [Lesson 5 - Methods](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_5_methods)
 - [Lesson 6 - Arrays](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_6_arrays)
+
+---
+## Unit 2 - Understanding Java
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
