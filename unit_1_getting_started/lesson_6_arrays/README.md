@@ -63,7 +63,7 @@ to watch
 ```java
 String[] stringArray = new String[5];
 
-String[] listOfCarBrands = {"Toyota", "Ford", "Chrysler", "Mazda", "Bentley"};
+String[] listOfCarBrands = { "Toyota", "Ford", "Chrysler", "Mazda", "Bentley" };
 ```
 
 ### Helpful Links
@@ -145,7 +145,26 @@ to watch
 ---
 ## Loops and Arrays
 
-- To access all the elements individually we can use Loops! 
+- To access all the elements individually we can use Loops!
+- We can use ".length" to get the length of that array.
+
+```java
+String[] listOfCarBrands = { "Toyota", "Ford", "Chrysler", "Mazda", "Bentley" }
+
+for (int i = 0; i < listOfCarBrands.length; i++) {
+	System.out.println(listOfCarBrands[i]);
+}
+```
+
+- Another way we can loop through an array is an enhanced for loop.
+
+```java
+String[] listOfCarBrands = { "Toyota", "Ford", "Chrysler", "Mazda", "Bentley" }
+
+for (String brand : listOfCarBrands) {
+	System.out.println(brand);
+}
+```
 
 ### Helpful Links
 
