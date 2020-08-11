@@ -67,9 +67,9 @@ to watch
 ## IDEs
 
 - Where the magic happens.
-- IDEs are basically a super text editor.
+- Integrated Development Environments or IDEs are basically a super text editor.
 - IDEs have features and tools that makes creating software easier.
-- There're several Integrated Development Environments or IDEs you could use.
+- There're several IDEs you could use.
 - I recommend [IntelliJ](https://www.jetbrains.com/idea/) to start.
 
 ### Helpful Links
@@ -94,7 +94,7 @@ to watch
 
 - Jakarta is an Enterprise Edition of Java.
 - Older versions are called JavaEE, and the oldest J2EE.
-- Provides tools to create enterprise level applications.
+- The EE versions of Java provide tools to create enterprise level applications.
 
 ### Helpful Links
 

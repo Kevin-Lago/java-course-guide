@@ -30,14 +30,56 @@ public class HelloWorld
 }
 ```
 	
-- Writing messy code can ARGUABLY be faster but will waste alot of time.
+- Messy code can be EXTREMELY hard to follow.
 	
 ``` java
- public class  HelloWorld 
-	{public static void main(String[]  args) 
-  {System.out.println("Hello, World");
-	   }
-	}
+public class MessyCode { public static void main(String[] args) {
+int[] grades = {2, 98, 58, 83, 95, 36, 36, 78, 37, 86, 85, 87, 98, 100, 38};
+    int min = 100;int max = 0;
+ int sum = 0;
+    int mean = 0;
+        double variance = 0;
+    double standardDeviation = 0;
+        for (int grade : grades) { if (grade > max) max = grade;
+if (grade < min) min = grade;
+    sum += grade; }mean = (sum / grades.length);
+
+for (int grade : grades) {
+    variance += ((grade - mean) * (grade - mean));
+}
+ variance = Math.sqrt(variance / grades.length);
+standardDeviation = Math.sqrt(variance); }}
+```
+
+- Clean code is easier to change and understand
+
+```java
+public class CleanCode {
+    public static void main(String[] args) {
+        int[] grades = {2, 98, 58, 83, 95, 36, 36, 78, 37, 86, 85, 87, 98, 100, 38};
+        int min = 100;
+        int max = 0;
+        int sum = 0;
+        int mean = 0;
+        double variance = 0;
+        double standardDeviation = 0;
+
+        for (int grade : grades) {
+            if (grade > max) max = grade;
+            if (grade < min) min = grade;
+            sum += grade;
+        }
+
+        mean = (sum / grades.length);
+
+        for (int grade : grades) {
+            variance += ((grade - mean) * (grade - mean));
+        }
+
+        variance = Math.sqrt(variance / grades.length);
+        standardDeviation = Math.sqrt(variance);
+    }
+}
 ```
 
 ### Helpful Links
@@ -119,7 +161,7 @@ to read
 ## Data Types
 
 - In Java there're primitive data types and objects.
-- bytes, shorts, ints, longs, floats, and doubles are primitive number data types.
+- bytes, shorts, ints and longs are primitive number data types.
 
 ```java
 byte byteMinimumValue = -128;
@@ -155,7 +197,7 @@ double doubleValue2 = 5937.3276d;
 double defaultDoubleValue = 0.0d;
 ```
 
-- booleans are a primitive data type with either a true or false value.
+- booleans are a primitive data type of either a true or false value.
 
 ```java
 boolean defaultBooleanValue = false;
@@ -244,8 +286,8 @@ public class ExampleClassIdentifier {
 ```
 
 - Names should be descriptive
-- Classes and Vairables are nouns
-- Methods are verbs
+- Classes and Vairables start with nouns
+- Methods start with verbs
 
 ```java
 public class Apple {
