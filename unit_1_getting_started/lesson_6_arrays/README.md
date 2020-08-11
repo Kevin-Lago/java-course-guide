@@ -1,6 +1,6 @@
 # Unit 1 Lesson 6 - Arrays
 
-[Previous Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_1_getting_started/lesson_3_methods)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_5_methods)
 
 [Lesson Slides](https://docs.google.com/presentation/d/12SsbLA1HV4kX1I71zBAGQC0I2icgxCpkWr3B5zB9iB0/edit?usp=sharing)
 
@@ -198,7 +198,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/full_java_course/tree/master/unit_2/lesson_7_debugging)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_2_understanding_java/lesson_1_classes_and_objects)
 
 # Full Java Course
 
