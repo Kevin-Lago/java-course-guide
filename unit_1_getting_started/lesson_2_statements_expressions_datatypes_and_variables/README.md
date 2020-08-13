@@ -367,9 +367,9 @@ to read
 | =        | Equals Operator          | Assigns a value to a Variable                     | int x = 2     | 2            |
 | +=       | Plus-Equals Operator     | Adds a value to a Variables original value        | x += 6        | 8            |
 | -=       | Minus-Equals Operator    | Subtracts a value from a Variables original value | x -= 2        | 6            |
-| *=       | Multiply-Equals Operator | Divides two values                                | x *= 2        | 12           |
-| /=       | Divide-Equals Operator   | Divides two values and returns the remainder      | x /= 4        | 3            |
-| %=       | Modulus-Equals Operator  | Adds 1 to a value                                 | x %= 2        | 1            |
+| *=       | Multiply-Equals Operator | Multiplies a value to a Variables original value  | x *= 2        | 12           |
+| /=       | Divide-Equals Operator   | Divides a value from a Variables original value   | x /= 4        | 3            |
+| %=       | Modulus-Equals Operator  | Returns the remainder of a Variables value        | x %= 2        | 1            |
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
 - Relational/Comparison Operators allow us to compare two values
