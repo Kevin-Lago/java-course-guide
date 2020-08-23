@@ -3,7 +3,7 @@
 ---
 ## Unit 1 - Glossary
 
-#### <a name="JRE"></a>JRE
+#### JRE
 
 #### JDK
 
