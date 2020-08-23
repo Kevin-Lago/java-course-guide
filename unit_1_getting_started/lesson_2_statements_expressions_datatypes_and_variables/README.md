@@ -45,7 +45,7 @@ if (grade < min) min = grade;
     sum += grade; }mean = (sum / grades.length);
 
 for (int grade : grades) {
-    variance += ((grade - mean) * (grade - mean));
+    variance += Math.pow(num - mean, 2);
 }
  variance = Math.sqrt(variance / grades.length);
 standardDeviation = Math.sqrt(variance); }}
@@ -68,12 +68,13 @@ public class CleanCode {
 
         mean = (sum / grades.length);
 
-        for (int grade : grades) {
-            variance += ((grade - mean) * (grade - mean));
+		for (int num : a) {
+            variance += Math.pow(num - mean, 2);
         }
 
-        variance = Math.sqrt(variance / grades.length);
-        standardDeviation = Math.sqrt(variance);
+        standardDeviation = Math.sqrt(variance / a.length);
+
+        System.out.printf("%.1f %n", standardDeviation);
     }
 }
 ```
