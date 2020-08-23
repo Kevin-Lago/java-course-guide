@@ -27,7 +27,7 @@ to watch
 ---
 ## JRE and JDK
 
-- The Java Runtime Environment or JRE basically runs Java programs.
+- The Java Runtime Environment or [JRE](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/README.md #JRE) basically runs Java programs.
 - The Java Development Kit or JDK is essentially a set of tools to create Java applications.
 
 ### Helpful Links
