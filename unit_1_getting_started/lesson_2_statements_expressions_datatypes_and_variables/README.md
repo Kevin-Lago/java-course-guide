@@ -68,7 +68,7 @@ public class CleanCode {
 
         mean = (sum / grades.length);
 
-		for (int num : a) {
+	for (int num : a) {
             variance += Math.pow(num - mean, 2);
         }
 
