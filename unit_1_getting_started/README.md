@@ -1,8 +1,4 @@
-# Java Course Guide
-
-<a href="https://github.com/Kevin-Lago/Java-Course-Guide">
-	<img src="../java_logo.png" />
-</a>
+# Java Course Glossary
 
 ---
 ## Unit 1 - Glossary
@@ -12,3 +8,9 @@
 #### JDK
 
 #### JVM
+
+---
+
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide">
+	<img src="../java_logo.png" />
+</a>

@@ -154,7 +154,7 @@ to watch
 
 [Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
 
-# Full Java Course
+# Java Course Guide
 
 <a href="https://github.com/Kevin-Lago/Java-Course-Guide">
 	<img src="../../java_logo.png" />
