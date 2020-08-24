@@ -374,7 +374,7 @@ to read
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
 - Relational/Comparison Operators allow us to compare two values
-- Relational/Comparison Operators will equate a true or false value
+- Relational/Comparison Operators will equate to either a true or false value
 
 | Operator |  Name                           | Function                                          | Example | Result Value |
 |:--------:|:-------------------------------:|---------------------------------------------------|:-------:|--------------|
@@ -386,8 +386,16 @@ to read
 | !=       | Does-Not-Equal Operator         | Returns true if a does not equal b                | 2 != 2  | false        |
 
 - Logical Operators: &&, ||, !
+- Logical Operators are used in conjuntion with two Boolean Expressions!
+
+| Operator |  Name                           | Function                                          | Example        | Result Value |
+|:--------:|:-------------------------------:|---------------------------------------------------|:--------------:|--------------|
+| &&       | Logical And Operator            | Returns true if both conditions are true          | 2 < 4 && 4 > 2 | false        |
+|          | Logical Or Operator             | Returns true if either condition is true          | 2 > 3 || 3 > 2 | true         |
+| !        | Logical Not Operator            | Returns the opposite of the current boolean value | !true          | false        |
 
 - Bitwise Operators: &, |, ~, ^, <<, >>, >>>
+- Bitwise Operators are used to manipulate the bit values of either an Integer or long Integer.
 
 ### Helpful Links
 

@@ -1,8 +1,6 @@
 # Unit 1 Lesson 1 - Introduction to Java
 
-<a href="https://www.youtube.com/watch?v=vqSmKGQokzM">
-	<img src="video.png" />
-</a>
+[![Unit 1 Lesson 1 Video](video.png)](https://www.youtube.com/watch?v=vqSmKGQokzM)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1IbkN3dbFgc648J2UZrndsTJGw5b8IO7TNh0P1v-_pPA/edit?usp=sharing)
 
