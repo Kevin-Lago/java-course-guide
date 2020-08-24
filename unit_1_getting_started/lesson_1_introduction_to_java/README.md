@@ -1,6 +1,6 @@
 # Unit 1 Lesson 1 - Introduction to Java
 
-[[embed url=https://www.youtube.com/watch?v=vqSmKGQokzM]]
+[![Unit 1 Lesson 1 Video](video.png)](https://www.youtube.com/watch?v=vqSmKGQokzM)
 <a href="https://www.youtube.com/watch?v=vqSmKGQokzM">
 	<img src="video.png" />
 </a>
