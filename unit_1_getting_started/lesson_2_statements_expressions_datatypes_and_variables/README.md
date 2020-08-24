@@ -391,7 +391,7 @@ to read
 | Operator |  Name                           | Function                                          | Example        | Result Value |
 |:--------:|:-------------------------------:|---------------------------------------------------|:--------------:|--------------|
 | &&       | Logical And Operator            | Returns true if both conditions are true          | 2 < 4 && 4 > 2 | false        |
-| ||       | Logical Or Operator             | Returns true if either condition is true          | 2 > 3 || 3 > 2 | true         |
+|          | Logical Or Operator             | Returns true if either condition is true          | 2 > 3 || 3 > 2 | true         |
 | !        | Logical Not Operator            | Returns the opposite of the current boolean value | !true          | false        |
 
 - Bitwise Operators: &, |, ~, ^, <<, >>, >>>
