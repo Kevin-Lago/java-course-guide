@@ -16,11 +16,11 @@
 ---
 ## Unit 2 - Understanding Java
 
-- [Lesson 1 - Objects Oriented Programming](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_1_object_oriented_programming)
-- [Lesson 2 - Classess and Objects](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_2_classes_and_objects)
-- [Lesson 3 - Memory Management](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_3_memory_management)
-- [Lesson 4 - Class Design](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_4_class_design)
-- [Lesson 5 - Interfaces](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_5_interfaces)
-- [Lesson 6 - Composition](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_6_composition)
-- [Lesson 7 - Inheritance](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_7_inheritance)
-- [Lesson 8 - Polymorphism](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_8_polymorphism)
+- [Lesson 1 - Objects Oriented Programming](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_1_object_oriented_programming#unit-2-lesson-1---object-oriented-programming)
+- [Lesson 2 - Classess and Objects](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_2_classes_and_objects#unit-2-lesson-2---classes-and-objects)
+- [Lesson 3 - Memory Management](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_3_memory_management#unit-2-lesson-3---memory-management)
+- [Lesson 4 - Class Design](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_4_class_design#unit-2-lesson-4---class-design)
+- [Lesson 5 - Interfaces](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_5_interfaces#unit-2-lesson-5---interfaces)
+- [Lesson 6 - Composition](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_6_composition#unit-2-lesson-6---composition)
+- [Lesson 7 - Inheritance](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_7_inheritance#unit-2-lesson-7---inheritance)
+- [Lesson 8 - Polymorphism](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_8_polymorphism#unit-2-lesson-8---polymorphism)

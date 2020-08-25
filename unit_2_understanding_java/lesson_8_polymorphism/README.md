@@ -1,6 +1,6 @@
 # Unit 2 Lesson 8 - Polymorphism
 
-[Previous Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_7_inheritance)
+[Previous Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_7_inheritance#unit-2-lesson-7---inheritance)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1TI5MGDuMSraaGRthVR243rN7EzIXlWSFc6dSRrn8bl0/edit?usp=sharing)
 
