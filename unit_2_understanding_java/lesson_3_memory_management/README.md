@@ -38,7 +38,7 @@ to watch
 
 # Full Java Course
 
-<a href="https://github.com/Kevin-Lago/java_full_course">
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide">
 	<img src="../../java_logo.png" />
 </a>
 
