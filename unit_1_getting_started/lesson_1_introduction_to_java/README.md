@@ -158,6 +158,6 @@ to watch
 
 # Java Course Guide
 
-<a href="https://github.com/Kevin-Lago/Java-Course-Guide">
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide#java-course-guide">">
 	<img src="../../java_logo.png" />
 </a>
