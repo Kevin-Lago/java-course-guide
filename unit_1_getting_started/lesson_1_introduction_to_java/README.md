@@ -154,7 +154,7 @@ to watch
 
 [Lesson Quiz](https://docs.google.com/forms/d/1xv316sTfA12PUxXmN3K5oGkq3kesilNqRxaL3psGlec/viewform?edit_requested=true)
 
-[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables#unit-1-lesson-2---statements-expressions-data-types-and-variables)
 
 # Java Course Guide
 
