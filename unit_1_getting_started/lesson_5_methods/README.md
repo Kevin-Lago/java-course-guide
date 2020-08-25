@@ -1,6 +1,6 @@
 # Unit 1 Lesson 5 - Methods
 
-[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_4_debugging)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_4_debugging#unit-1-lesson-4---debugging)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1IUt6Od3-mm4HAWt6zHqt570D84MwOOG9pW7pmRkCPZs/edit?usp=sharing)
 
@@ -241,11 +241,11 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_6_arrays)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_6_arrays#unit-1-lesson-6---arrays)
 
 # Full Java Course
 
-<a href="https://github.com/Kevin-Lago/java_full_course">
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide#java-course-guide">
 	<img src="../../java_logo.png" />
 </a>
 

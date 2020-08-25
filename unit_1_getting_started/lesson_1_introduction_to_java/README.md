@@ -1,5 +1,7 @@
 # Unit 1 Lesson 1 - Introduction to Java
 
+[![Unit 1 Lesson 1 Video](video.png)](https://www.youtube.com/watch?v=vqSmKGQokzM)
+
 [Lesson Slides](https://docs.google.com/presentation/d/1IbkN3dbFgc648J2UZrndsTJGw5b8IO7TNh0P1v-_pPA/edit?usp=sharing)
 
 ---
@@ -27,7 +29,7 @@ to watch
 ---
 ## JRE and JDK
 
-- The Java Runtime Environment or JRE basically runs Java programs.
+- The Java Runtime Environment or [JRE](https://github.com/Kevin-Lago/Java-Course-Guide/tree/unit1/unit_1_getting_started/#JRE) basically runs Java programs.
 - The Java Development Kit or JDK is essentially a set of tools to create Java applications.
 
 ### Helpful Links
@@ -152,10 +154,10 @@ to watch
 
 [Lesson Quiz](https://docs.google.com/forms/d/1xv316sTfA12PUxXmN3K5oGkq3kesilNqRxaL3psGlec/viewform?edit_requested=true)
 
-[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables#unit-1-lesson-2---statements-expressions-data-types-and-variables)
 
-# Full Java Course
+# Java Course Guide
 
-<a href="https://github.com/Kevin-Lago/Java-Course-Guide">
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide#java-course-guide">">
 	<img src="../../java_logo.png" />
 </a>

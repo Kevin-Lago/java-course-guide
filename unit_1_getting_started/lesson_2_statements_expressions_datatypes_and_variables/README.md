@@ -1,6 +1,6 @@
 # Unit 1 Lesson 2 - Statements, Expressions, Data Types and Variables
 
-[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_1_introduction_to_java)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_1_introduction_to_java#unit-1-lesson-1---introduction-to-java)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1mUUR4Sbu7yTlyrWjL2at44_BOAi9ZFxZLuGG-gCkznw/edit?usp=sharing)
 
@@ -45,7 +45,7 @@ if (grade < min) min = grade;
     sum += grade; }mean = (sum / grades.length);
 
 for (int grade : grades) {
-    variance += ((grade - mean) * (grade - mean));
+    variance += Math.pow(num - mean, 2);
 }
  variance = Math.sqrt(variance / grades.length);
 standardDeviation = Math.sqrt(variance); }}
@@ -68,12 +68,13 @@ public class CleanCode {
 
         mean = (sum / grades.length);
 
-        for (int grade : grades) {
-            variance += ((grade - mean) * (grade - mean));
+	for (int num : a) {
+            variance += Math.pow(num - mean, 2);
         }
 
-        variance = Math.sqrt(variance / grades.length);
-        standardDeviation = Math.sqrt(variance);
+        standardDeviation = Math.sqrt(variance / a.length);
+
+        System.out.printf("%.1f %n", standardDeviation);
     }
 }
 ```
@@ -373,7 +374,7 @@ to read
 
 - Relational/Comparison Operators: <, <=, >, =>, ==, !=
 - Relational/Comparison Operators allow us to compare two values
-- Relational/Comparison Operators will equate a true or false value
+- Relational/Comparison Operators will equate to either a true or false value
 
 | Operator |  Name                           | Function                                          | Example | Result Value |
 |:--------:|:-------------------------------:|---------------------------------------------------|:-------:|--------------|
@@ -385,8 +386,17 @@ to read
 | !=       | Does-Not-Equal Operator         | Returns true if a does not equal b                | 2 != 2  | false        |
 
 - Logical Operators: &&, ||, !
+- Logical Operators are used in conjuntion with two Boolean Expressions!
+- Due to the way graphs work in these files || will be replaced with OR.
+
+| Operator |  Name                           | Function                                          | Example        | Result Value |
+|:--------:|:-------------------------------:|---------------------------------------------------|:--------------:|--------------|
+| &&       | Logical And Operator            | Returns true if both conditions are true          | 2 < 4 && 4 > 2 | false        |
+| OR       | Logical Or Operator             | Returns true if either condition is true          | 2 > 3 OR 3 > 2 | true         |
+| !        | Logical Not Operator            | Returns the opposite of the current boolean value | !true          | false        |
 
 - Bitwise Operators: &, |, ~, ^, <<, >>, >>>
+- Bitwise Operators are used to manipulate the bit values of either an Integer or long Integer.
 
 ### Helpful Links
 
@@ -416,11 +426,11 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_3_loops_and_logic)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_3_loops_and_logic#unit-1-lesson-3---loops-and-logic)
 
 # Full Java Course
 
-<a href="https://github.com/Kevin-Lago/java_full_course">
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide#java-course-guide">
 	<img src="../../java_logo.png" />
 </a>
 

@@ -1,6 +1,6 @@
 # Unit 1 Lesson 3 - Loops and Logic
 
-[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables)
+[Previous Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_2_statements_expressions_datatypes_and_variables#unit-1-lesson-2---statements-expressions-data-types-and-variables)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1PGyQbY8l9K4_ZeNZPWz40bR25OVZPmMZsqOhm7lrwcA/edit?usp=sharing)
 
@@ -389,11 +389,11 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_4_debugging)
+[Next Lesson](https://github.com/Kevin-Lago/Java-Course-Guide/tree/master/unit_1_getting_started/lesson_4_debugging#unit-1-lesson-4---debugging)
 
 # Full Java Course
 
-<a href="https://github.com/Kevin-Lago/java_full_course">
+<a href="https://github.com/Kevin-Lago/Java-Course-Guide#java-course-guide">
 	<img src="../../java_logo.png" />
 </a>
 
