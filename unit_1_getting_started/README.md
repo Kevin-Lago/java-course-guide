@@ -1,4 +1,4 @@
-# Java Course Glossary
+# Java Course Unit 1 Glossary
 
 ---
 ## Unit 1 - Glossary
