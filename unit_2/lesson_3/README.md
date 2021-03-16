@@ -1,6 +1,6 @@
 # Unit 2 Lesson 3 - Memory Management
 
-[Previous Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_2_classes_and_objects#unit-2-lesson-2---classes-and-objects)
+[Previous Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2/lesson_2#unit-2-lesson-2---classes-and-objects)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1bgf1TdXBwub1hP4a1NZaYvwGR_RWq46eDDpwZIX4G9g/edit?usp=sharing)
 
@@ -34,7 +34,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_4_class_design#unit-2-lesson-4---class-design)
+[Next Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2/lesson_4#unit-2-lesson-4---class-design)
 
 # Full Java Course
 

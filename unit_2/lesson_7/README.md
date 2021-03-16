@@ -1,6 +1,6 @@
 # Unit 2 Lesson 7 - Inheritance
 
-[Previous Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_6_composition#unit-2-lesson-6---composition)
+[Previous Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2/lesson_6#unit-2-lesson-6---composition)
 
 [Lesson Slides](https://docs.google.com/presentation/d/1wVCv4z7fAbWBslZj3Ti8KITT5hIlWfhizsMPBJrtjZk/edit?usp=sharing)
 
@@ -34,7 +34,7 @@ to watch
 
 [Lesson Quiz]()
 
-[Next Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2_understanding_java/lesson_8_polymorphism#unit-2-lesson-8---polymorphism)
+[Next Lesson](https://github.com/Kevin-Lago/java-course-guide/tree/master/unit_2/lesson_8#unit-2-lesson-8---polymorphism)
 
 # Full Java Course
 
